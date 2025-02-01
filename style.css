@@ -125,6 +125,14 @@ nav {
   font: bold;
 }
 
+.link__icon {
+  width: 48px;
+  height: 48px;
+}
+.link__icon:hover {
+  transform: scale(1.2);
+}
+
 /* About Me */
 
 #about-me {
